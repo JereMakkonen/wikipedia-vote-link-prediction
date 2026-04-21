@@ -2,4 +2,5 @@ networkx
 matplotlib
 scipy
 pandas
+numpy
 openpyxl
