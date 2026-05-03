@@ -5,3 +5,5 @@ pandas
 numpy
 openpyxl
 powerlaw
+node2vec
+scikit-learn
