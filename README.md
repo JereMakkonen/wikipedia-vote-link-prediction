@@ -1,5 +1,7 @@
 ## Project 17: Link prediction 2
 
+### Project parts 1-6 can be found in graph_analysis.ipynb and parts 7-9 in link_prediction.ipynb
+
 ### Setup windows
 ```bash
 python -m venv venv
